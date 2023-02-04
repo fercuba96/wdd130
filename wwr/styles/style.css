@@ -21,7 +21,6 @@ nav a{
 main section{
     text-align: center;
 }
-
 #background {
     height: 725px;
     background-color: #068d9d;
@@ -67,7 +66,6 @@ main section img{
     font-family: Georgia, 'Times New Roman', Times, serif;
     line-height: 1.5em;
     padding: 35px;
-
 }
 footer{
     font-family: 'Courier New', Courier, monospace;
