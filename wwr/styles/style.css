@@ -1,4 +1,4 @@
-div {
+div{
     max-width: 1600px;
     margin: 0 auto
  }
@@ -8,6 +8,7 @@ div {
 nav a{
     text-align:center;
     font-family: 'Courier New', Courier, monospace;
+    background-color: none;
     color: #2E1F27;
     text-decoration: none;
     padding: 35px;
@@ -21,7 +22,7 @@ nav a{
 main section{
     text-align: center;
 }
-#background {
+#background{
     height: 725px;
     background-color: #068d9d;
 }
@@ -31,7 +32,7 @@ body{
     padding: 0;
     margin: 0;
 }                   
-header {
+header{
     background-color: #80ded9;
 }
 nav a:hover{
