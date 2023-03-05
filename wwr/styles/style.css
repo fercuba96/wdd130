@@ -178,17 +178,15 @@ h2{
 }
 .questionsmade h2{
     font-family: Tahoma,Verdana,sans-serif;
-    font: size 1px;
+    font-size: 20px;
     color: #071618;
 }
-
 .questionsmade p {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: .8em;
     color: #127051;
     padding-bottom: 15px;
 }
-
 
 footer a{
     color: aquamarine;
